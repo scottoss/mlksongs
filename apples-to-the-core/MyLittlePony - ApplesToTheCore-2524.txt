@@ -6,6 +6,7 @@
 #CREATOR:my little karaoke
 #MP3:apples.mp3
 #COVER:apples.jpg
+#BACKGROUND:apples.jpg
 #VIDEO:apples.webm
 #VIDEOGAP:0.00
 #RELATIVE:No
